@@ -1,7 +1,7 @@
 name: dart_gtranslate
 description: a simple dart package for google translate
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/tseluka/dart-gtranslate
 
 environment:
   sdk: ^3.12.2
